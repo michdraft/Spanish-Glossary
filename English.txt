@@ -1295,5 +1295,3 @@ shoe
 high heel shoes
 sneakers
 juice
-=======
->>>>>>> abc8c800c42d1ea9c6cc355f231090d10da943cb
