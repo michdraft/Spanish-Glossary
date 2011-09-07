@@ -10,11 +10,11 @@ class Definition {
 		eng = en;
 	}
 
-	public String getSpanish() {
+	public String getSpan() {
 		return span;
 	}
 
-	public String getEnglish() {
+	public String getEng() {
      	return eng;
 	}
 
