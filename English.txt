@@ -554,6 +554,7 @@ to become extinct
 to miss
 extroverted
 F
+<<<<<<< HEAD
 easy
 ease of expression, ability to speak
 skirt
@@ -1294,3 +1295,5 @@ shoe
 high heel shoes
 sneakers
 juice
+=======
+>>>>>>> abc8c800c42d1ea9c6cc355f231090d10da943cb
