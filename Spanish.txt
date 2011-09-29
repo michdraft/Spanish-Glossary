@@ -1,4 +1,3 @@
-A
 a cuadros
 a rayas
 a fin de que
@@ -129,7 +128,6 @@ avión (avion)
 aydar
 azúcar
 azul
-B
 baile
 bajar de peso
 bajo
@@ -181,9 +179,9 @@ bucear
 buena presencia
 ¡Buenas noches!
 ¡Buenas tardes!
+bueno
 ¡Buenos días! (¡Buenos dias!)
 Busco...
-C
 caballo
 cabeza
 cable
@@ -203,12 +201,6 @@ cambio
 caminar
 camión de mudanzas
 camisa
-camiseta
-campesino
-camisa
-camiseta
-campesino
-campo
 camiseta
 campesino
 campo
@@ -247,6 +239,7 @@ chaqueta
 charlar por teléfono
 ¡Chau!
 cheque
+cheque de viajero
 chícharos (chicharos)
 chileno
 chofer
@@ -264,6 +257,7 @@ ciento dos
 ciento tres
 cine
 cinta
+cintura
 cinturón (cinturon)
 cliquear
 clóset (closet)
@@ -337,7 +331,9 @@ cuadra
 cuadro
 ¿Cuál? (Cual?)
 ¿Cuáles? (Cuales?)
+cualquier
 ¿Cuándo? (Cuando?)
+cuando
 ¿Cuánto? (Cuanto?)
 ¿Cuántos? (Cuantos?)
 cuatrocientos
@@ -362,7 +358,6 @@ cuota inicial
 curar
 curita
 currículum (curriculum)
-D
 dar
 datos personales
 de buen humor
@@ -434,7 +429,6 @@ doscientos dos
 doscientos tres
 dos millones
 duro
-E
 echar de menos
 ecología (ecologia)
 ecólogo (ecologo)
@@ -518,6 +512,7 @@ eso
 esos
 espalda
 español (espanol)
+espárrago (esparrago)
 especialidad
 especie
 especie en vía de extinción (especie en via de extincion)
@@ -535,4 +530,752 @@ estado civil
 estadounidense
 estampado
 Están como para chuparse los dedos (Estan como para chuparse los dedos)
-last column halfway down
+¿Están listos para pedir? (Estan listos para pedir?)
+estante
+estar
+estar dispuesto
+estar nublado
+éste (este)
+estéreo
+estimado
+estiramiento
+estómago (estomago)
+éstos (estos)
+estrés (estres)
+estricto
+estudiante
+estudios realizados
+estufa
+estúpido (estupido)
+europeo
+evitar
+expediente
+experiencia laboral
+exposición (exposicion)
+extinción (extincion)
+extinguirse
+extrañar (extranar)
+extrovertido
+fácil (facil)
+facilidad de expresión (facilidad de expresion)
+falda
+fallarle
+familia
+famoso
+farmacia
+fauna
+fax
+febrero
+fecha de nacimiento
+fecha de grado
+felix
+feo
+fibra         
+fiebre
+fiel
+filete de res
+filosofía (filosofia)
+finalmente
+finca
+firme
+fisioterapia
+flaco
+flora
+formulario
+fotografía (fotografia)
+fresa
+frijoles
+frito
+fruta
+fuerte
+fuerza
+fumar
+funcionario público (funcionario publico)
+fútbol (futbol)
+fútbol americano (futbol americano)
+futoro
+gafas protectoras
+galería de arte (galeria de arte)
+galleta
+gallina
+gambas
+ganado
+ganar
+garaje
+garganta
+gas
+gato
+generoso
+geografía (geografia)
+geología (geologia)
+geometría (geometria)
+gerente
+gimnasia
+gimnasio
+golpear
+gordo
+gorra
+Gracia
+gracioso
+graduación (graduacion)
+grande
+grasa animal
+gripe
+gris
+guante
+guapo
+guardamuebles
+guardaparques
+guardar
+guatemalteco
+guerra
+gustar
+habitacíon (habitacion)
+hablar
+hacer
+hacer buen tiempo
+hacer calor
+hacer clic
+hacer estiramiento
+hacer fresco
+hacer frío (hacer frio)
+hacer la cama
+hacer mal tiempo
+hacer realidad
+hacer sol
+hacer surf
+hacer un poco de calentamiento
+hacer un viaje
+hacer una pregunta
+hacer viento
+halar
+hambre
+hamburguesa
+hasta
+¡Hasta la vista! (Hasta la vista!)
+Hasta luego
+¡Hasta pronto! (Hasta pronto!)
+helado
+hermanastro
+hermano
+hijo
+hipoteca
+historia
+hogar
+hoja de vida
+¡Hola! (Hola!)
+hombre de negocios
+hombro
+hondureño
+honesto
+horno microóndas (horno microondas)
+hospital
+hotel
+hueso
+huevo
+humanidades
+idioma
+iglesia
+ilusión (ilusion)
+imagen
+impermeable
+impresora
+imprimir
+indiferencia
+individual
+infiel
+influenza
+informática (informatica)
+informe
+ingeniería (ingenieria)
+ingeniería multimedia (ingenieria multimedia)
+ingeniero
+inmobiliaria
+insertar
+instalar
+inteligente
+invertir
+investigación (investigacion)
+investigar
+invierno
+ir
+irse
+isla
+jalar
+jamón (jamon)
+jarabe
+jardín (jardin)
+jefe
+joven
+jublicacíon (jublicacion)
+judía verde (judia verde)
+juego
+jueves
+jugador
+jugar
+jugo
+julio
+junio
+juntos
+juzgar
+lago
+lámpara (lampara)
+lana
+langosta
+lápiz (lapiz)
+largo
+lavandería (lavanderia)
+lavar
+lavar la ropa
+lavar los platos
+leal
+Lean..
+leche
+lechuga
+leer
+legumbre
+lejos
+lengua
+lentes de sol
+levantamiento de pesas
+librería (libreria)
+libro
+licencia profesional
+licenciado
+limonada
+limpiar
+liso
+listo
+literatura
+llamada telefónica
+llegar
+llegar a ser
+llevar
+llover
+lograr
+los...
+lucha libre
+lugar de interés (lugar de interes)
+lunes
+luz
+madrastra
+madre
+maíz (maiz)
+maleta
+maletín (maletin)
+malo
+mamá (mama)
+manejar
+mango
+mano
+manta
+mantel
+mantener
+mantenerse en buen estado de salud
+mantenerse en forma
+mantequilla
+manzana
+mar
+maravilloso
+marcador
+marcar
+mareo
+mariscos
+marrón (marron)
+martes
+marzo
+más (mas)
+Más despacio, por favor (Mas despacio, por favor)
+más o menos (mas o menos)
+matemáticas
+material sintético (material sintetico)
+matrícula profesional (matricula profesional)
+matrimonio
+mayo
+mayor
+Me llamo...
+¿Me prodría traer...? (Me prodria traer...?)
+media
+medicina
+médico (medico)
+medio ambiente
+mejillones
+mejor
+mejorar
+melón (melon)
+menaje
+menor
+mensaje electrónico (mensaje electronico)
+mentir
+mermelada
+mes
+mesa
+mesa de centro
+mesa de noche
+mesero
+meta
+metal
+mexicano
+miel
+mientras que
+miércoles (miercoles)
+mil
+mil uno
+mil dos
+millón (millon)
+mineral
+minifalda
+mirar
+miseria
+mochila
+montaña (montana)
+montar a caballo
+morado
+moreno
+mostaza
+mostrar
+motor de búsqueda (motor de busqueda)
+movimiento
+Muchas gracias
+mucho
+Mucho gusto
+mudanza
+mudarse
+muebles
+muestra
+mujer de negocios
+mundo
+museo
+música (musica)
+Muy bien, gracias
+muy
+nacimiento
+nacionalidad
+nada
+nadar
+nadie
+naranja
+nariz
+natación (natacion)
+naturalista
+navegar el Internet
+negro
+nervioso
+nevar
+nevera
+ni...ni
+nicaragüense (nicaraguense)
+nieto
+No comprendo
+No funciona
+nombre
+Nos vemos el lunes
+novecientos
+novecientos mil
+novecientos noventa y nueve mil
+noviembre
+novio
+nuevo
+nunca
+objeto
+obra
+obra maestra
+obrero
+ochocientos
+octubre
+ocupado
+odio
+oficina de correos
+oficina de turismo
+oído (oido)
+Ojalá (Ojala)
+ojo
+olvidar
+oprimir
+ordenador
+oreja
+oro
+otoño (otono)
+paciente
+padrastro
+padre
+página (pagina)
+paisaje
+palabra
+pan
+pan tostado
+pana
+panameño (panameno)
+pantalla
+pantalones
+pantalones cortos
+papa
+papas fritas
+para que
+parada de autobús (parada de autobus)
+paraguayo
+paramédico (paramedico)
+parásitos intestinales (parasitos intestinales)
+parecer
+pared
+pariente
+parlante
+parque
+parqueadero
+pasaporte
+pasar hambre
+pasar tiempo libre
+pasear
+pasillo
+pasta
+pastel
+pastilla
+patatas fritas
+patinaje
+patinaje en línea (patinaje en linea)
+pato
+patria
+pavo
+pedalear
+pedir
+película (pelicula)
+pelo
+pelo blanco
+pelo castaño (pelo castano)
+pelota
+peluquería (peluqueria)
+peluquero
+pendiente
+pequeño (pequeno)
+pera
+perder
+perezoso
+periodismo
+periodista
+permitir
+pero
+perro
+pescado
+peso
+pez
+pie
+piel
+pierna
+pimienta
+pinto
+pintura
+piña
+pizarra
+pizza
+planos
+planta baja
+plástico de burbujas (plastico de burbujas)
+plata
+plátano (platano)
+plateado
+platillo
+plato
+plato principal
+playa
+plaza
+pobre
+poco
+poder
+poder
+policía (policia)
+policía vial (policia vial)
+poliéster (poliester)
+pollo
+por
+por ciento
+por cierto
+por ello
+por eso
+por esto
+por favor
+por fin
+por la mañana (por la manana)
+por la noche
+por la tarde
+por otro lado
+¿por qué? (por que?)
+Por supuesto
+postre
+pregunta
+prender
+preocupado
+preocuparse
+preparar
+presentar
+presentarse
+preservar
+presionar
+préstamo
+primavera
+primer piso
+primo
+producir
+producto refinado
+profesión (profesion)
+profesional
+profesor
+programa
+programador de computadoras
+programar
+promover
+propiedad
+propina
+proporción (proporcion)
+proteger
+proteína (proteina)
+puerco
+puerta
+puertorriqueño (puertorriqueno)
+pulcera
+pulmón (pulmon)
+pulsar
+puntual
+¿Qué? (Que?)
+¿Qué significa...? (Que significa...?)
+¿Qué tiempo hace? (Que tiempo hace?)
+quehaceres
+¿Quién? (Quien?)
+queso
+querer
+química
+quinientos
+rábalo
+radiografía (radiografia)
+raqueta
+rasgo
+ratón (raton)
+recámara
+recepción
+receta
+recibir
+reciclar
+recoger
+recuerdo
+recursos naturales
+reducir
+reforestar
+refresco
+refrigerador
+refugio natural
+regresar
+regular
+reloj
+reparar
+repetir
+representar
+reserva biológica (reserva biologica)
+resfriado
+resistencia
+respetar
+respeto
+respetuoso
+responder
+responsable
+restaurante
+reto
+reunión (reunion)
+revisar el buzón (revisar el buzon)
+revuelto
+rico
+riesgo
+río (rio)
+rizado
+róbalo (robalo)
+rodilla
+rodillera
+rojo
+ropa
+ropa interior
+rosado
+rubio
+ruido
+sábado (sabado)
+saber
+sacar
+sal
+sala
+sala de espera
+salchicha
+salir
+salón de belleza (salon de belleza)
+salón de clase (salon de clase)
+salsa de tomate
+salud
+saludo
+salvadoreño
+salvar
+sandalia
+sandía
+sándwich
+sección de no fumar
+seda
+seguro de sí mismo
+seiscientos
+selva
+semáforo (semaforo)
+semana
+sembrar
+sentido del humor
+sentir
+sentirse mal
+Señor
+Señora
+Señorita
+separarse
+septiembre
+ser
+ser novios
+serio
+servicios públicos (servicios publicos)
+servicios sociales
+servilleta
+set
+setecientos
+sicología (sicologia)
+siempre
+silla
+sillón (sillon)
+simpático (simpatico)
+sobre
+sobrino
+sofá (sofa)
+solicitar
+solicitar trabajo
+solicitud
+solidaridad
+soltero
+sombrero de sol
+sopa
+sótana (sotana)
+subir de peso
+suegro
+suelo
+sueño (sueno)
+suéter
+supermercado
+también (tambien)
+tampoco
+tarea
+tarjeta de crédito (tarjeta de credito)
+tarjeta de embarque
+taza
+té (te)
+techo
+teclado
+técnica (tecnica)
+técnico (tecnico)
+tejanos
+tela
+teléfono (telefono)
+televisión (television)
+televisor
+tenedor
+Tenemos una reservación a nombre de... (Tenemos una reservacion a nombre de...)
+tener
+tener calor
+tener constancia
+tener disciplina
+tener éxito (tener exito)
+tener frío (tener frio)
+tener ganas de
+tener hambre
+tener miedo
+tener paciencia
+tener prisa
+tener sed
+tener sueño (tener sueno)
+tener suerte
+tenis
+teñido
+terminal internacional
+terminar
+términos de financiamiento (terminos de finaciamiento)
+ternera
+tiempo
+tienda
+tienda de ropa
+tierra
+tijeras
+tímido (timido)
+tintorería (tintoreria)
+tío (tio)
+tirar
+título (titulo)
+tiza
+tobillo
+tocino
+todos los dias
+tolerante
+tomar
+tomate
+tonto
+toro
+torta
+tos
+trabajador
+trabajador
+trabajador no calificado
+trabajo social
+traje
+traje de baño
+transporte
+trasladarse
+traslado
+tratar
+trescientos
+triste
+trucha
+ubicación (ubicacion)
+un millón (un millon)
+uña (una)
+uruguayo
+usar
+útil (util)
+utilizar
+uva
+vaca
+valle
+vaqueros
+variedad
+vaso
+vegatales
+vendedor
+vender
+venezolano
+venta
+ventana
+ver
+ver televisión (ver television)
+verano
+verde
+verduras
+vestido
+veterinario
+viajar
+vida
+viejo
+viernes
+vinagre
+vincularse
+vino
+violencia
+vitamina
+viuda
+vivir
+volcán
+voleibol
+volver
+Vuelva pronto
+y
+yeso
+zanahoria
+zapatilla
+zapato
+zapato alto
+zapato de tenis
+zumo

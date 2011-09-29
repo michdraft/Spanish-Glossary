@@ -1,4 +1,3 @@
-A
 plaid, checked
 striped
 in order tha, so that
@@ -79,7 +78,8 @@ friendly
 friend
 friendship
 friendly
-love orange
+love
+orange
 anniversary
 last night
 before
@@ -106,11 +106,15 @@ file
 sand
 earring
 Argentinean
-dresser harness
+dresser
+harness
 architect
 to fix, to tidy up
 to take risks
-rice art peas artist
+rice
+art
+peas
+artist
 Asian
 seat
 to attend
@@ -124,7 +128,6 @@ airplan
 to help
 sugar
 blue
-B
 dance
 to lose weight
 low, short
@@ -179,7 +182,6 @@ Good afternoon
 good
 Good morning
 I am looking for
-C
 horse
 head
 cable
@@ -209,8 +211,11 @@ to sing
 face
 to load
 charity
-meat car menu
-cover letter handbag
+meat
+car
+menu
+cover letter
+handbag
 house
 married
 to get married
@@ -254,7 +259,7 @@ movie theater
 tape
 waist
 belt
-click
+to click
 closet
 kitchen
 to cook
@@ -308,10 +313,6 @@ wine glass
 heart
 tie
 to correct
-wine glass
-heart
-tie
-to correct
 e-mail
 to run
 to cut
@@ -357,7 +358,6 @@ down payment
 to heal
 Band-Aid
 resume
-D
 to give
 personal information
 funny
@@ -376,14 +376,13 @@ to quit, to stop
 to delegate power
 thin
 crime
-spot
+sport
 depressed
 law, right
 human rights
 challenge
 breakfast
 rest
-to unplug
 from, since
 to want
 to unpack
@@ -430,7 +429,6 @@ bedroom
 203
 2000000
 hard, difficult
-E
 to miss
 ecology
 ecologist
@@ -488,9 +486,14 @@ equipment, team
 it is doubtful
 It's wonderful
 It's wonderful
-It is better
-it is necessary
+it is important
+it is impossible
+it is improbable
+It is fitting
 It's wonderful
+it is better
+it is necessary
+It is perfect
 it is possible
 it is necessary
 it is probable
@@ -553,8 +556,6 @@ extinction
 to become extinct
 to miss
 extroverted
-F
-<<<<<<< HEAD
 easy
 ease of expression, ability to speak
 skirt
@@ -567,7 +568,8 @@ fax
 February
 date of birth
 graduation date
-happy ugly
+happy
+ugly
 fiber
 fever
 faithful
@@ -592,7 +594,6 @@ public official
 soccer
 football
 future
-G
 goggles
 art gallery
 cookie
@@ -629,7 +630,6 @@ to store, to save
 Guatamalan
 war
 to like, to please
-H
 bedroom
 to talk, to speak
 to do, to make
@@ -674,7 +674,6 @@ hotel
 bone
 egg
 humanities
-I
 language
 church
 dream, illusion
@@ -702,7 +701,6 @@ winter
 to go
 to leave
 island
-J
 to pull
 ham
 cough syrup
@@ -720,7 +718,6 @@ July
 June
 together
 to judge
-L
 lake
 lamp
 wool
@@ -761,7 +758,6 @@ wrestling
 landmark
 Monday
 light, electricity
-M
 stepmother
 mother
 corn
@@ -823,7 +819,7 @@ Mexican
 honey
 while, whereas
 Wednesday
-one thousdand
+one thousand, 1000
 1001
 1002
 one million
@@ -853,7 +849,6 @@ museum
 music
 Very well, thank you
 very
-N
 birth
 nationality
 nothing
@@ -866,7 +861,8 @@ naturalist
 to surf the net
 black
 nervous
-to snow refrigerator
+to snow
+refrigerator
 neither...nor
 Nicaraguan
 grandson
@@ -881,7 +877,6 @@ November
 boyfriend, finace, fiancé
 new
 never
-O
 object
 work
 masterpiece
@@ -901,7 +896,6 @@ computer
 ear
 gold
 fall
-P
 patient
 stepfather
 father
@@ -1041,7 +1035,6 @@ bracelet
 lung
 to push, to hit
 punctual
-Q
 What
 What does ... mean, What does... mean
 What is the weather like
@@ -1051,7 +1044,6 @@ cheese
 to want, to love
 chemistry
 five hundred, 500
-R
 bass
 x-rays
 racket
@@ -1084,8 +1076,6 @@ respect
 respectful
 to answer
 repsonsible
-to answer
-respobsible
 restaurant
 challenge
 meeting
@@ -1104,7 +1094,6 @@ underwear
 pink
 blond, blonde
 noise
-S
 Saturday
 to know
 to get, to take out, to obtain
@@ -1169,7 +1158,6 @@ soil
 dream
 sweater
 supermarket
-T
 also
 neither, either
 homework, duty
@@ -1242,7 +1230,6 @@ to try
 300
 sad
 trout
-U
 location
 10000000
 finernail
@@ -1251,7 +1238,6 @@ to use, to wear
 useful
 to make use
 grape
-V
 cow
 valley
 blue jeans
@@ -1285,10 +1271,8 @@ volcano
 volleyball
 to return
 Come back soon
-Y
 and
 cast
-Z
 carrot
 slipper
 shoe
